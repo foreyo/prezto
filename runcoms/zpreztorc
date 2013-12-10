@@ -32,6 +32,11 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
+  'dpkg' \
+  'git' \
+  'python' \
+  'node' \
+  'command-not-found' \
   'prompt'
 
 #

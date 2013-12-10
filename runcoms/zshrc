@@ -12,3 +12,7 @@ fi
 
 # Customize to your needs...
 
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/Devel
+source /usr/local/bin/virtualenvwrapper.sh
+eval `dircolors ~/.dircolors`
